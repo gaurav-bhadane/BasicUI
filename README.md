@@ -1,1 +1,1 @@
-# Basic Frontend Project Using HTML, CSS and Bootstrap
+# Basic Frontend Project known as TinDog made Using HTML, CSS and Bootstrap for Learning Bootstrap framework
